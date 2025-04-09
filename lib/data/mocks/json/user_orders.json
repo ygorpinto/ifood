@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1001,
+    "date": "2023-05-15T19:30:00",
+    "restaurantId": 1,
+    "restaurantName": "Pizza Express",
+    "restaurantLogo": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+    "status": "Entregue",
+    "totalAmount": 62.70,
+    "items": [
+      {
+        "id": 101,
+        "name": "Pizza Margherita",
+        "price": 39.90,
+        "quantity": 1
+      },
+      {
+        "id": 106,
+        "name": "Refrigerante 2L",
+        "price": 12.90,
+        "quantity": 1
+      }
+    ],
+    "deliveryFee": 5.90,
+    "paymentMethod": "Cartão de Crédito"
+  },
+  {
+    "id": 1002,
+    "date": "2023-06-22T20:15:00",
+    "restaurantId": 2,
+    "restaurantName": "Sushi Yama",
+    "restaurantLogo": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c",
+    "status": "Entregue",
+    "totalAmount": 98.80,
+    "items": [
+      {
+        "id": 201,
+        "name": "Combo Sushi Especial",
+        "price": 89.90,
+        "quantity": 1
+      }
+    ],
+    "deliveryFee": 8.90,
+    "paymentMethod": "PIX"
+  },
+  {
+    "id": 1003,
+    "date": "2023-07-05T12:45:00",
+    "restaurantId": 3,
+    "restaurantName": "Burger King",
+    "restaurantLogo": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+    "status": "Entregue",
+    "totalAmount": 39.70,
+    "items": [
+      {
+        "id": 301,
+        "name": "Classic Burger",
+        "price": 25.90,
+        "quantity": 1
+      },
+      {
+        "id": 303,
+        "name": "Batata Frita P",
+        "price": 9.90,
+        "quantity": 1
+      }
+    ],
+    "deliveryFee": 3.90,
+    "paymentMethod": "Dinheiro"
+  }
+] 

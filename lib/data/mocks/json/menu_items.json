@@ -1,0 +1,214 @@
+[
+  {
+    "restaurantId": 1,
+    "categories": [
+      {
+        "name": "Pizzas Tradicionais",
+        "items": [
+          {
+            "id": 101,
+            "name": "Pizza Margherita",
+            "description": "Molho de tomate, mussarela, tomate e manjericão fresco",
+            "price": 39.90,
+            "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002",
+            "featured": true
+          },
+          {
+            "id": 102,
+            "name": "Pizza Calabresa",
+            "description": "Molho de tomate, mussarela e calabresa fatiada",
+            "price": 42.90,
+            "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+            "featured": false
+          },
+          {
+            "id": 103,
+            "name": "Pizza Quatro Queijos",
+            "description": "Molho de tomate, mussarela, provolone, parmesão e gorgonzola",
+            "price": 45.90,
+            "imageUrl": "https://images.unsplash.com/photo-1573821663912-569905455b1c",
+            "featured": true
+          }
+        ]
+      },
+      {
+        "name": "Pizzas Especiais",
+        "items": [
+          {
+            "id": 104,
+            "name": "Pizza Portuguesa",
+            "description": "Molho de tomate, mussarela, presunto, cebola, ovo e azeitonas",
+            "price": 48.90,
+            "imageUrl": "https://images.unsplash.com/photo-1604917877934-07d8d248d396",
+            "featured": false
+          },
+          {
+            "id": 105,
+            "name": "Pizza Vegetariana",
+            "description": "Molho de tomate, mussarela, tomate, pimentão, cebola, champignon e azeitonas",
+            "price": 46.90,
+            "imageUrl": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a",
+            "featured": false
+          }
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "items": [
+          {
+            "id": 106,
+            "name": "Refrigerante 2L",
+            "description": "Coca-Cola, Guaraná ou Sprite",
+            "price": 12.90,
+            "imageUrl": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97",
+            "featured": false
+          },
+          {
+            "id": 107,
+            "name": "Suco Natural 500ml",
+            "description": "Laranja, Limão ou Maracujá",
+            "price": 9.90,
+            "imageUrl": "https://images.unsplash.com/photo-1613478223719-2ab802602423",
+            "featured": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": 2,
+    "categories": [
+      {
+        "name": "Combos",
+        "items": [
+          {
+            "id": 201,
+            "name": "Combo Sushi Especial",
+            "description": "20 peças variadas de sushi e sashimi",
+            "price": 89.90,
+            "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c",
+            "featured": true
+          },
+          {
+            "id": 202,
+            "name": "Combo Família",
+            "description": "40 peças variadas para 3-4 pessoas",
+            "price": 150.90,
+            "imageUrl": "https://images.unsplash.com/photo-1611143669185-af224c5e3252",
+            "featured": true
+          }
+        ]
+      },
+      {
+        "name": "Sushi",
+        "items": [
+          {
+            "id": 203,
+            "name": "Sushi de Salmão",
+            "description": "6 unidades de sushi de salmão fresco",
+            "price": 32.90,
+            "imageUrl": "https://images.unsplash.com/photo-1583623025817-d180a2221d0a",
+            "featured": false
+          },
+          {
+            "id": 204,
+            "name": "Sushi de Atum",
+            "description": "6 unidades de sushi de atum fresco",
+            "price": 34.90,
+            "imageUrl": "https://images.unsplash.com/photo-1617196034183-421b4917c92d",
+            "featured": false
+          }
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "items": [
+          {
+            "id": 205,
+            "name": "Saquê 300ml",
+            "description": "Saquê japonês tradicional",
+            "price": 29.90,
+            "imageUrl": "https://images.unsplash.com/photo-1611055447003-d78ef3fb7f68",
+            "featured": false
+          },
+          {
+            "id": 206,
+            "name": "Chá Verde",
+            "description": "Chá verde japonês quente",
+            "price": 8.90,
+            "imageUrl": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5",
+            "featured": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": 3,
+    "categories": [
+      {
+        "name": "Hambúrgueres",
+        "items": [
+          {
+            "id": 301,
+            "name": "Classic Burger",
+            "description": "Pão, hambúrguer 180g, queijo, alface, tomate e molho especial",
+            "price": 25.90,
+            "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+            "featured": true
+          },
+          {
+            "id": 302,
+            "name": "Cheese Bacon",
+            "description": "Pão, hambúrguer 180g, queijo cheddar, bacon, alface, tomate e molho especial",
+            "price": 29.90,
+            "imageUrl": "https://images.unsplash.com/photo-1553979459-d2229ba7433b",
+            "featured": true
+          }
+        ]
+      },
+      {
+        "name": "Acompanhamentos",
+        "items": [
+          {
+            "id": 303,
+            "name": "Batata Frita P",
+            "description": "Porção de batata frita crocante",
+            "price": 9.90,
+            "imageUrl": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877",
+            "featured": false
+          },
+          {
+            "id": 304,
+            "name": "Onion Rings",
+            "description": "Anéis de cebola empanados",
+            "price": 14.90,
+            "imageUrl": "https://images.unsplash.com/photo-1639024471283-53a992c20e4c",
+            "featured": false
+          }
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "items": [
+          {
+            "id": 305,
+            "name": "Milkshake",
+            "description": "Milkshake de chocolate, morango ou baunilha",
+            "price": 16.90,
+            "imageUrl": "https://images.unsplash.com/photo-1553787499-6f9133242872",
+            "featured": false
+          },
+          {
+            "id": 306,
+            "name": "Refrigerante 500ml",
+            "description": "Coca-Cola, Guaraná ou Sprite",
+            "price": 7.90,
+            "imageUrl": "https://images.unsplash.com/photo-1581636625402-29b2a704ef13",
+            "featured": false
+          }
+        ]
+      }
+    ]
+  }
+] 

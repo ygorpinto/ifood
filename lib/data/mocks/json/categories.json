@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
+  },
+  {
+    "id": 2,
+    "name": "Japonesa",
+    "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c"
+  },
+  {
+    "id": 3,
+    "name": "Hambúrguer",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+  },
+  {
+    "id": 4,
+    "name": "Mexicana",
+    "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47"
+  },
+  {
+    "id": 5,
+    "name": "Açaí",
+    "imageUrl": "https://images.unsplash.com/photo-1590080669911-25b89a17ad6b"
+  },
+  {
+    "id": 6,
+    "name": "Salgados",
+    "imageUrl": "https://images.unsplash.com/photo-1626711934535-9749ea933747"
+  },
+  {
+    "id": 7,
+    "name": "Brasileira",
+    "imageUrl": "https://images.unsplash.com/photo-1519677584237-752f8853252e"
+  },
+  {
+    "id": 8,
+    "name": "Árabe",
+    "imageUrl": "https://images.unsplash.com/photo-1547573854-74d2a71d0826"
+  },
+  {
+    "id": 9,
+    "name": "Italiana",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c"
+  },
+  {
+    "id": 10,
+    "name": "Doces",
+    "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb"
+  }
+] 
